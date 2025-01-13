@@ -48,6 +48,4 @@ This project uses the ExchangeRate-API. You'll need to get your own API key from
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
 
-MIT
