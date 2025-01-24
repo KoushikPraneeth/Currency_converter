@@ -5,7 +5,7 @@ import React, { useState, useEffect } from "react";
     import axios from "axios";
     import { FaExchangeAlt } from "react-icons/fa";
 
-    const API_KEY = "bada0d16cd1520abd5b050a4";
+    const API_KEY = "your-api-key-here";
 
     function CurrencyConverter() {
       const [amount, setAmount] = useState(1);
